@@ -2,8 +2,7 @@
 
 Final project of 'Introduction to Control Systems'
 
-![ezgif com-video-to-gif](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/d3979d86-37ed-42d7-abdc-232627f234d2){: .align-center}
-
+![ezgif com-video-to-gif](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/d3979d86-37ed-42d7-abdc-232627f234d2)
 
 ![슬라이드6](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/976f9141-e536-4235-a70a-25d9055e6ebc)
 ![슬라이드7](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/bd782f4f-aace-46f3-906b-1763525167ee)
