@@ -2,6 +2,9 @@
 
 Final project of 'Introduction to Control Systems'
 
+![2023-06-22_00-59-32_AdobeExpress_AdobeExpress_AdobeExpress](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/4d6fea33-7e14-44b0-ab4e-9068e88bb73e)
+
+
 ![슬라이드6](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/976f9141-e536-4235-a70a-25d9055e6ebc)
 ![슬라이드7](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/bd782f4f-aace-46f3-906b-1763525167ee)
 ![슬라이드8](https://github.com/Woojin-Oh/Line-Tracer/assets/123630873/9b15e204-169c-4f0c-b56a-5dd0c01445b0)
